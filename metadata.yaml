@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2334
     wikipedia: http://en.wikipedia.org/wiki/Rupert_Hughes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38311#What-Will-People-Say--A-Novel
 gutenberg_issued: '2011-12-15'
 gutenberg_type: Text
 identifiers:
