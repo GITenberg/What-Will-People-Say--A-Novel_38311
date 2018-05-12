@@ -1,0 +1,29 @@
+_repo: What-Will-People-Say--A-Novel_38311
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38311-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Hughes, Rupert
+    birthdate: 1872
+    deathdate: 1956
+    gutenberg_agent_id: '2334'
+    url: http://www.gutenberg.org/2009/agents/2334
+    wikipedia: http://en.wikipedia.org/wiki/Rupert_Hughes
+description: ''
+gutenberg_issued: '2011-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38311'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+title: What Will People Say? A Novel
+url: http://www.gutenberg.org/ebooks/38311
